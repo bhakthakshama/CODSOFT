@@ -85,7 +85,7 @@ public class Numbergame {
                 }
             }
             System.out.println("You have crossed the limit of attempts !");
-            System.out.println("Thank you for playing !Hope you had a good time!!\nThe number is :"+rnum);
+            System.out.println("Thank you for playing !Hope you had a good time!!\nThe number is : "+rnum);
             System.exit(0);
         }
     }
